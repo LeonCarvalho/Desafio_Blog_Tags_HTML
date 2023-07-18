@@ -1,0 +1,90 @@
+<html>
+<body>
+    <h1>Tags in HTML</h1>
+    <hr></hr>
+    <h2>Index</h2>
+    <h3><ol>
+        <li><a href="#Hs">H1 to H6</a></li>
+        <li><a href="#p">p</a></li>
+        <li><a href="#mark">mark</a></li>
+        <li><a href="#small">small</a></li>
+        <li><a href="#i">i</a></li>
+        <li><a href="#u">u</a></li>
+        <li><a href="#strong">strong</a></li>
+        <li><a href="#ol">ol</a></li>
+        <li><a href="#ul">ul</a></li>
+        <li><a href="#li">li</a></li>
+        <li><a href="#a">a</a></li>
+        <li><a href="#hr">hr</a></li>
+        <li><a href="#sub">sub</a></li>
+        <li><a href="#sup">sup</a></li>
+        <li><a href="#blockquote">blockquote</a></li>
+        <li><a href="#del">del</a></li>
+        <li><a href="#abbr">abbr</a></li>
+    </ol></h3>
+    
+        <p><h2><strong><a id="Hs">H1 to H6</a></strong></h2></p>
+            <p><h3>The <mark>h1</mark> to <mark>h6</mark> tags are used to define HTML headings. h1 defines the most important heading. h6 defines the least important heading.
+            Note: Only use one h1 per page - this should represent
+            the main heading/subject for the whole page.
+            Also, do not skip heading levels - start with h1,
+            then use h2, and so on.</h3></p>
+
+        <p><h2><strong><a id="p">p</a></strong></h2></p>
+            <p><h3>The <mark>p</mark> tag defines a paragraph. Browsers 
+                automatically add a single blank line before 
+                and after each <mark>p</mark> element.</h3></p>
+
+        <p><h2><strong><a id="mark">mark</a></strong></h2></p>
+        <p><h3>The <mark>mark</mark> tag defines text that should be <mark>marked or highlighted.</mark></h3></p>
+
+        <p><h2><strong><a id="small">small</a></strong></h2></p>
+        <p><h3>The <small><mark>small</mark></small> tag defines smaller text (like copyright and other side-comments).</h3></p>
+
+        <p><h2><strong><a id="i">i</a></strong></h2></p>
+        <p><h3>The <i><mark>i</mark></i> tag defines a part of text in an alternate voice or mood. The content inside is typically displayed in <i>italic.</i></mark></h3></p>
+        
+        <p><h2><strong><a id="u">u</a></strong></h2></p>
+        <p><h3>The <mark>u</mark> tag represents some text that is unarticulated and styled differently from normal text, such as misspelled words or proper names in <u>Chinese</u> text. The content inside is typically displayed with an <u>underline.</u></h3></p>
+
+        <p><h2><strong><a id="strong">strong</a></strong></h2></p>
+        <p><h3>The <mark>strong</mark> tag is used to define text with strong importance. The content inside is typically displayed in <strong>bold.</strong></h3></p>
+
+        <p><h2><strong><a id="ol">ol</a></strong></h2></p>
+        <p><h3>The <mark>ol</mark> tag defines an ordered list. An ordered list can be numerical or alphabetical.</h3></p>
+
+        <p><h2><strong><a id="ul">ul</a></strong></h2></p>
+        <p><h3>The <mark>ul</mark> tag defines an unordered (bulleted) list.</h3></p>
+
+        <p><h2><strong><a id="li">li</a></strong></h2></p>
+        <p><h3>The <mark>li</mark> is used together with either ol or ul to make the lists.</h3></p>
+
+        <p><h2><strong><a id="a">a</a></strong></h2></p>
+        <p><h3>The <mark>a</mark> tag defines a hyperlink, which is used to link from one page to another. The most important attribute of the <mark>a</mark>
+                element is the href attribute, which indicates the link's destination.</h3></p>
+
+        <p><h2><strong><a id="hr">hr</a></strong></h2></p>
+        <p><h3>The <mark>hr</mark> tag defines a thematic break in an HTML page (e.g. a shift of topic).
+            The <mark>hr</mark> element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.</h3></p>
+
+        <p><h2><strong><a id="sub">sub</a></strong></h2></p>
+        <p><h3>The <mark>sub</mark> tag defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. 
+                Subscript text can be used for chemical formulas, like <sub>H2O.</sub></h3></p>
+
+        <p><h2><strong><a id="sup">sup</a></strong></h2></p>
+        <p><h3>The <mark>sup</mark> tag defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font.
+             Superscript text can be used for footnotes, like WWW<sup>[1]</sup>.</h3></p>
+
+        <p><h2><strong><a id="blockquote">blockquote</a></strong></h2></p>
+        <p><h3>The <mark>blockquote</mark> tag specifies a section that is quoted from another <blockquote>source.</blockquote></h3></p>
+
+        <p><h2><strong><a id="del">del</a></strong></h2></p>
+        <p><h3>The <mark>del</mark> tag defines text that has been deleted from a document. Browsers will usually strike a line through <del>deleted text.</del></h3></p>
+             
+        <p><h2><strong><a id="abbr">abbr</a></strong></h2></p>
+        <p><h3>The <mark>abbr</mark> tag defines an abbreviation or an acronym, like <abbr title="World Health Organization">"WHO"</abbr>.</blockquote></h3></p>
+
+
+</body>
+
+</html>
